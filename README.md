@@ -38,15 +38,15 @@ Accepted for poster presentation at:
 
 ## 🖼️ Poster
 
-👉 [View Poster](Poster/Poster_Banner Paper_ID_57.pdf)
+👉 [View Poster](Poster/poster.pdf)
 
 ## 📷 Methodology
 
-![Methodology](figures/1_1(1).png)
+![Methodology](figures/methodology.png)
 
 ## 📜 Certificate
 
-👉 [Acceptance Certificate](Certificates/Certificate of Acceptance.pdf)
+👉 [Acceptance Certificate](Certificates/Certificate.pdf)
 
 ## ⚠️ Note
 
@@ -57,7 +57,7 @@ Due to dataset and project constraints, the full source code is not publicly ava
 - **Imon Hossain**  
   Department of Computer Science and Engineering  
   Dhaka University of Engineering & Technology (DUET), Bangladesh  
-  📧 webdsigneremon10@gmail.com  
+  📧 imon.hossain39.official@gmail.com  
 
 - **Mehedi Hasan Shuvo**  
   Department of Computer Science and Engineering  
