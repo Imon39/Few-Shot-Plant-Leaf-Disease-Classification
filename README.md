@@ -42,7 +42,7 @@ Accepted for poster presentation at:
 
 ## 📷 Methodology
 
-![Methodology](figures/methodology.png)
+![Methodology](Figure/methodology.png)
 
 ## 📜 Certificate
 
